@@ -6,7 +6,8 @@ public class HelloGitHub {
 		
 		String text = "Hello GitHub, I am Developer";
 		int number = 0;
-				
+		int commitTest = 5;
+		
 		System.out.print(text);
 		System.out.print(number);
 		System.out.print("!");
